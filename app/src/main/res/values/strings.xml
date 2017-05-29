@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">A Simple Calculator</string>
+    <string name="warning_maxNumberCount">Maximum number of characters (15) exceeded.</string>
+
+    <string name="button_zero" translatable="false">0</string>
+    <string name="button_one" translatable="false">1</string>
+    <string name="button_two" translatable="false">2</string>
+    <string name="button_three" translatable="false">3</string>
+    <string name="button_four" translatable="false">4</string>
+    <string name="button_five" translatable="false">5</string>
+    <string name="button_six" translatable="false">6</string>
+    <string name="button_seven" translatable="false">7</string>
+    <string name="button_eight" translatable="false">8</string>
+    <string name="button_nine" translatable="false">9</string>
+
+    <string name="button_sign">SIGN</string>
+    <string name="button_pow">POW</string>
+    <string name="button_clear">CLEAR</string>
+    <string name="button_division">/</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_addition">+</string>
+    <string name="button_subtraction">-</string>
+    <string name="button_equal">=</string>
+    <string name="button_decimal">.</string>
+    <string name="button_clearEntry">CE</string>
+
+</resources>
