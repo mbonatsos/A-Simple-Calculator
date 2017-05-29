@@ -8,4 +8,4 @@ A calculator for android mobiles.
 
 ## Download
 The latest release version is available here
-[https://www.dropbox.com/s/tdnwinv0xsilgw](https://www.dropbox.com/s/tdnwinv0xsilgwd/Calculator.apk?dl=1)
+[dropbox](https://www.dropbox.com/s/u92m0gmr02kohfk/calculator.apk?dl=1)
